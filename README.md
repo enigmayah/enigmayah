@@ -16,7 +16,7 @@
 - Open Source Projects related to Android Development, ML, DL, etc.
 
 📫 How to reach me:
-- [LinkedIn] (https://www.linkedin.com/in/chaitanya-subhash-reddy-33172528b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+- [LinkedIn](https://www.linkedin.com/in/chaitanya-subhash-reddy-33172528b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 😄 Pronouns: He/Him
 
