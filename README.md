@@ -3,7 +3,7 @@
 👀 I’m interested in:
 - Cybersecurity (Penetration Testing)
 
-- Reverse Engineering
+- Reverse Engineering Android Applications
 
 - Android Security and Development (Kotlin and Jetpack Compose)
 
