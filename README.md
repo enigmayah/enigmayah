@@ -1,4 +1,4 @@
-👋 Hi, I’m Chaitnaya Subhash (alias enigmayah)
+👋 Hi, I’m enigmayah
 
 👀 I’m interested in:
 - Cybersecurity (Penetration Testing)
