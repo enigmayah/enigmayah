@@ -1,4 +1,4 @@
-👋 Hi, I’m enigmayah
+👋 Hi, I’m Chaitanya Subhash Chaganti
 
 👀 I’m interested in:
 - Cybersecurity (Penetration Testing)
